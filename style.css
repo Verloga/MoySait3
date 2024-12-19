@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header img{
+    height: 40px;
+    width: 80px;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+
+footer{
+    background-color: aquamarine;
+    padding: 15px;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+
+nav{
+    border: 5px solid blueviolet;
+    padding: 5px;
+    margin: 5px;
+}
+
+nav a{
+    
+}
